@@ -1,0 +1,45 @@
+[2024/02/03 18:33:23]: §9          __             _       
+[2024/02/03 18:33:23]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/02/03 18:33:23]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/02/03 18:33:23]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/02/03 18:33:23]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/02/03 18:33:23]: §9                  |___/            
+[2024/02/03 18:33:23]: §9 By: www.nickuc.com - V 10.2.49
+[2024/02/03 18:33:23]: §9 
+[2024/02/03 18:33:23]: §3[nLogin] [DEBUG] All settings were loaded in 214 ms.
+[2024/02/03 18:33:24]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/02/03 18:33:24]: §3[nLogin] [DEBUG] All plugin messages were loaded in 99 ms (languageByClient=false).
+[2024/02/03 18:33:24]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2024/02/03 18:33:24]: §3[nLogin] [DEBUG] Loading database...
+[2024/02/03 18:33:24]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/02/03 18:33:43]: [nLogin] 
+[2024/02/03 18:33:43]: [nLogin]  §bThank you so much for choosing nLogin! §4<3
+[2024/02/03 18:33:43]: [nLogin] 
+[2024/02/03 18:33:43]: [nLogin]  §4For your safety, please read the message below:
+[2024/02/03 18:33:43]: [nLogin]   §cNever download nLogin from unknown sources.
+[2024/02/03 18:33:43]: [nLogin]   §cA modified version may contain malicious software.
+[2024/02/03 18:33:43]: [nLogin] 
+[2024/02/03 18:33:43]: [nLogin]  §3Trusted sources:
+[2024/02/03 18:33:43]: [nLogin]   §bwww.nickuc.com
+[2024/02/03 18:33:43]: [nLogin]   §bwww.github.com/nickuc
+[2024/02/03 18:33:43]: [nLogin]   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/02/03 18:33:43]: [nLogin] 
+[2024/02/03 18:33:43]: [nLogin]  §3Official support channels:
+[2024/02/03 18:33:43]: [nLogin]   §bDiscord group: §fwww.nickuc.com/discord
+[2024/02/03 18:33:43]: [nLogin]   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/02/03 18:33:43]: [nLogin]   §bEmail: §fsupport@nickuc.com
+[2024/02/03 18:33:43]: [nLogin]   §bYouTube: §fyoutube.com/nickuc
+[2024/02/03 18:33:43]: [nLogin] 
+[2024/02/03 18:33:43]: [nLogin]  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/02/03 18:33:43]: [nLogin]  §eand click the "Setup plugin" button to configure your plugin.
+[2024/02/03 18:33:43]: [nLogin] 
+[2024/02/03 18:34:09]: §3[nLogin] [DEBUG] Failed to encrypt with aes.
+[2024/02/03 18:34:09]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SenMN', `unique_id` = cc2599898d9e37d49b99ee8ec46e2d9e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$b5de3eff921b9302f4643b72aa9950fc7199d8b33f8123b4a9232116a4427123596e2f45f598468bd922710f2588d6a899492cf0484840909db2db3d8435d6fd$nlZOJfTjloUAHcpKPCUsfaSa', `last_ip` = '127.0.0.1', `creation_date` = 2024-02-03 18:22:45.758, `last_seen` = 2024-02-03 18:34:09.31, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1"
+[2024/02/03 18:34:09]: [nLogin] The user SenMN has successfully logged in.
+[2024/02/03 18:34:25]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SenMN', `unique_id` = cc2599898d9e37d49b99ee8ec46e2d9e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$b5de3eff921b9302f4643b72aa9950fc7199d8b33f8123b4a9232116a4427123596e2f45f598468bd922710f2588d6a899492cf0484840909db2db3d8435d6fd$nlZOJfTjloUAHcpKPCUsfaSa', `last_ip` = '127.0.0.1', `creation_date` = 2024-02-03 18:22:45.758, `last_seen` = 2024-02-03 18:34:09.31, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1"
+[2024/02/03 18:37:01]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SenMN', `unique_id` = cc2599898d9e37d49b99ee8ec46e2d9e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$b5de3eff921b9302f4643b72aa9950fc7199d8b33f8123b4a9232116a4427123596e2f45f598468bd922710f2588d6a899492cf0484840909db2db3d8435d6fd$nlZOJfTjloUAHcpKPCUsfaSa', `last_ip` = '127.0.0.1', `creation_date` = 2024-02-03 18:22:45.758, `last_seen` = 2024-02-03 18:37:01.138, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1"
+[2024/02/03 18:37:10]: §3[nLogin] [DEBUG] Failed to encrypt with aes.
+[2024/02/03 18:37:10]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SenMN', `unique_id` = cc2599898d9e37d49b99ee8ec46e2d9e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$b5de3eff921b9302f4643b72aa9950fc7199d8b33f8123b4a9232116a4427123596e2f45f598468bd922710f2588d6a899492cf0484840909db2db3d8435d6fd$nlZOJfTjloUAHcpKPCUsfaSa', `last_ip` = '127.0.0.1', `creation_date` = 2024-02-03 18:22:45.758, `last_seen` = 2024-02-03 18:37:09.758, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1"
+[2024/02/03 18:37:10]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SenMN', `unique_id` = cc2599898d9e37d49b99ee8ec46e2d9e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$b5de3eff921b9302f4643b72aa9950fc7199d8b33f8123b4a9232116a4427123596e2f45f598468bd922710f2588d6a899492cf0484840909db2db3d8435d6fd$nlZOJfTjloUAHcpKPCUsfaSa', `last_ip` = '127.0.0.1', `creation_date` = 2024-02-03 18:22:45.758, `last_seen` = 2024-02-03 18:37:09.758, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1"
+[2024/02/03 18:37:10]: [nLogin] The user SenMN has successfully logged in.
+[2024/02/03 18:37:26]: [nLogin] Successful plugin core shutdown (took 0.00s)

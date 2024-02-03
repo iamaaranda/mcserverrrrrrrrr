@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706956646766
+  login: 1706956623798
+money: '0'
+last-account-name: SenMN
+logoutlocation:
+  world: d225ef91-c4d1-4301-8257-8ff7fde5d4ee
+  world-name: world
+  x: 2.3000000119209294
+  y: 64.17392575867102
+  z: 0.699999988079071
+  yaw: -112.51773071289062
+  pitch: 35.549644470214844
